@@ -11,7 +11,7 @@ const Index = () => {
 
       {/* Page content */}
       <h1>Welcome to My Next.js App</h1>
-      <p>This is a basic Next.js project./p>
+      <p>This is a basic Next.js project.</p>
     </div>
   );
 };
